@@ -111,3 +111,4 @@
 - [13] notes: add security and bridges overview (2026-06-10 12:28:59)
 - [14] notes: update official bridge withdrawal times (2026-06-10 12:28:59)
 - [15] notes: add Solana bridge via Chainlink CCIP (2026-06-10 12:29:00)
+- [16] notes: add third-party bridges comparison table (2026-06-10 12:29:01)
