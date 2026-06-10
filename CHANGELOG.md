@@ -192,3 +192,4 @@
 - [94] social: update Farcaster channel activity notes (2026-06-10 12:29:50)
 - [95] ai-agents: update Virtuals ecosystem Q1 2026 (2026-06-10 12:29:51)
 - [96] notes: add Base roadmap 2026 observations (2026-06-10 12:29:52)
+- [97] docs: final review and cleanup pass (2026-06-10 12:29:52)
