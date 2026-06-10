@@ -130,3 +130,4 @@
 - [32] defi: update Morpho TVL growth to 2B+ (2026-06-10 12:29:11)
 - [33] defi: add Morpho vs AAVE comparison (2026-06-10 12:29:11)
 - [34] defi: add Coinbase app integration notes (2026-06-10 12:29:12)
+- [35] defi: add Seamless Protocol section (2026-06-10 12:29:12)
