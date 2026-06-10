@@ -123,3 +123,4 @@
 - [25] defi: add ve(3,3) tokenomics explanation (2026-06-10 12:29:06)
 - [26] defi: add Aerodrome participation guide (2026-06-10 12:29:07)
 - [27] defi: add Aero merger with Velodrome notes (2026-06-10 12:29:07)
+- [28] defi: update key liquidity pools to watch (2026-06-10 12:29:08)
