@@ -124,3 +124,4 @@
 - [26] defi: add Aerodrome participation guide (2026-06-10 12:29:07)
 - [27] defi: add Aero merger with Velodrome notes (2026-06-10 12:29:07)
 - [28] defi: update key liquidity pools to watch (2026-06-10 12:29:08)
+- [29] defi: add Aerodrome risk factors section (2026-06-10 12:29:09)
