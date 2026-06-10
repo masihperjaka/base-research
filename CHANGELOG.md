@@ -183,3 +183,4 @@
 - [85] resources: add developer resources and funding (2026-06-10 12:29:45)
 - [86] resources: add key protocol links table (2026-06-10 12:29:45)
 - [87] resources: add analytics dashboards (2026-06-10 12:29:46)
+- [88] resources: add news and research sources (2026-06-10 12:29:47)
