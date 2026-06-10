@@ -151,3 +151,4 @@
 - [53] social: add content types that work on Zora (2026-06-10 12:29:24)
 - [54] social: add Clanker AI token deployment overview (2026-06-10 12:29:25)
 - [55] social: update Clanker fees 49.8M and stats (2026-06-10 12:29:25)
+- [56] social: add Clanker deployment flow steps (2026-06-10 12:29:26)
