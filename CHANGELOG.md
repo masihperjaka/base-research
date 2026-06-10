@@ -156,3 +156,4 @@
 - [58] social: add Clanker acquisition timeline (2026-06-10 12:29:27)
 - [59] social: update AI backbone Anthropic Claude note (2026-06-10 12:29:28)
 - [60] ai-agents: add Virtuals Protocol overview (2026-06-10 12:29:29)
+- [61] ai-agents: add tokenized AI agent model explained (2026-06-10 12:29:29)
