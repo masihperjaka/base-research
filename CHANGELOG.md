@@ -128,3 +128,4 @@
 - [30] defi: add Morpho Protocol overview (2026-06-10 12:29:09)
 - [31] defi: add Morpho funding history and backers (2026-06-10 12:29:10)
 - [32] defi: update Morpho TVL growth to 2B+ (2026-06-10 12:29:11)
+- [33] defi: add Morpho vs AAVE comparison (2026-06-10 12:29:11)
