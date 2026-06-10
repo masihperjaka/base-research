@@ -126,3 +126,4 @@
 - [28] defi: update key liquidity pools to watch (2026-06-10 12:29:08)
 - [29] defi: add Aerodrome risk factors section (2026-06-10 12:29:09)
 - [30] defi: add Morpho Protocol overview (2026-06-10 12:29:09)
+- [31] defi: add Morpho funding history and backers (2026-06-10 12:29:10)
