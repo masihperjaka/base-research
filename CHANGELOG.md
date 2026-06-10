@@ -165,3 +165,4 @@
 - [67] ai-agents: add x402 payment protocol details (2026-06-10 12:29:33)
 - [68] ai-agents: add agentic payments overview (2026-06-10 12:29:34)
 - [69] ai-agents: add Builder Codes ERC-8021 notes (2026-06-10 12:29:34)
+- [70] ai-agents: add how to build agent on Base guide (2026-06-10 12:29:35)
