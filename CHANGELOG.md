@@ -186,3 +186,4 @@
 - [88] resources: add news and research sources (2026-06-10 12:29:47)
 - [89] resources: add community channels guide (2026-06-10 12:29:47)
 - [90] chore: update CHANGELOG with initial setup (2026-06-10 12:29:48)
+- [91] docs: fix typos and improve formatting (2026-06-10 12:29:48)
