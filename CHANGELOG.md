@@ -176,3 +176,4 @@
 - [78] tools: add essential Base tools and analytics links (2026-06-10 12:29:40)
 - [79] tools: add ethers.js balance check snippet (2026-06-10 12:29:41)
 - [80] tools: add USDC balance query script (2026-06-10 12:29:42)
+- [81] tools: add gas price checker snippet (2026-06-10 12:29:42)
