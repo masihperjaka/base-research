@@ -182,3 +182,4 @@
 - [84] resources: add official Base links and docs (2026-06-10 12:29:44)
 - [85] resources: add developer resources and funding (2026-06-10 12:29:45)
 - [86] resources: add key protocol links table (2026-06-10 12:29:45)
+- [87] resources: add analytics dashboards (2026-06-10 12:29:46)
