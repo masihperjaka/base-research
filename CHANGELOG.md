@@ -141,3 +141,4 @@
 - [43] social: update Clanker acquisition by Farcaster (2026-06-10 12:29:18)
 - [44] social: add Base App integration July 2025 (2026-06-10 12:29:19)
 - [45] social: add Farcaster channels guide (2026-06-10 12:29:19)
+- [46] social: add Frames and Mini Apps explanation (2026-06-10 12:29:20)
