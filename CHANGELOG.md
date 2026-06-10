@@ -104,3 +104,4 @@
 - [6] notes: add Base vs other L2 comparison (2026-06-10 12:28:54)
 - [7] notes: add network fees and speed details (2026-06-10 12:28:55)
 - [8] notes: add airdrop strategy for Base ecosystem (2026-06-10 12:28:55)
+- [9] notes: update high-value DeFi activities for farming (2026-06-10 12:28:56)
