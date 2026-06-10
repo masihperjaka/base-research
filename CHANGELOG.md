@@ -179,3 +179,4 @@
 - [81] tools: add gas price checker snippet (2026-06-10 12:29:42)
 - [82] tools: add activity tracker CSV template (2026-06-10 12:29:43)
 - [83] tools: add key Base token addresses reference (2026-06-10 12:29:43)
+- [84] resources: add official Base links and docs (2026-06-10 12:29:44)
