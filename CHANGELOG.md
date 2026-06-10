@@ -136,3 +136,4 @@
 - [38] defi: update cbBTC market size 2.4B (2026-06-10 12:29:14)
 - [39] defi: add cbBTC vs WBTC comparison (2026-06-10 12:29:15)
 - [40] defi: add USDC native deployment explanation (2026-06-10 12:29:16)
+- [41] defi: add key Base assets table with addresses (2026-06-10 12:29:16)
