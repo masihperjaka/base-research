@@ -122,3 +122,4 @@
 - [24] defi: update Aerodrome TVL and volume stats (2026-06-10 12:29:05)
 - [25] defi: add ve(3,3) tokenomics explanation (2026-06-10 12:29:06)
 - [26] defi: add Aerodrome participation guide (2026-06-10 12:29:07)
+- [27] defi: add Aero merger with Velodrome notes (2026-06-10 12:29:07)
