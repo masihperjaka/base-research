@@ -98,3 +98,4 @@
 - [99] notes: add Base 2026 outlook and predictions (2026-06-10 12:21:12)
 - [100] docs: complete research archive ready for reference (2026-06-10 12:21:13)
 - [2] notes: add Base chain fundamentals overview (2026-06-10 12:28:51)
+- [3] notes: update OP Stack technical specs (2026-06-10 12:28:52)
