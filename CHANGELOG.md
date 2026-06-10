@@ -138,3 +138,4 @@
 - [40] defi: add USDC native deployment explanation (2026-06-10 12:29:16)
 - [41] defi: add key Base assets table with addresses (2026-06-10 12:29:16)
 - [42] social: add Farcaster decentralized social overview (2026-06-10 12:29:17)
+- [43] social: update Clanker acquisition by Farcaster (2026-06-10 12:29:18)
