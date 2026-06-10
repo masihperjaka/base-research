@@ -177,3 +177,4 @@
 - [79] tools: add ethers.js balance check snippet (2026-06-10 12:29:41)
 - [80] tools: add USDC balance query script (2026-06-10 12:29:42)
 - [81] tools: add gas price checker snippet (2026-06-10 12:29:42)
+- [82] tools: add activity tracker CSV template (2026-06-10 12:29:43)
