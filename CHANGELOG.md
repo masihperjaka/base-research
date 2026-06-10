@@ -101,3 +101,4 @@
 - [3] notes: update OP Stack technical specs (2026-06-10 12:28:52)
 - [4] notes: add Base Azul upgrade details (2026-06-10 12:28:53)
 - [5] notes: add Base ecosystem TVL and stats (2026-06-10 12:28:53)
+- [6] notes: add Base vs other L2 comparison (2026-06-10 12:28:54)
