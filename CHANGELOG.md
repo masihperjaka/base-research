@@ -162,3 +162,4 @@
 - [64] ai-agents: add inference fees revenue model (2026-06-10 12:29:31)
 - [65] ai-agents: add risk factors for AI agent tokens (2026-06-10 12:29:32)
 - [66] ai-agents: add Base MCP wallet infrastructure (2026-06-10 12:29:32)
+- [67] ai-agents: add x402 payment protocol details (2026-06-10 12:29:33)
