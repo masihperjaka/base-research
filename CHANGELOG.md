@@ -170,3 +170,4 @@
 - [72] projects: add Basenames identity system overview (2026-06-10 12:29:36)
 - [73] projects: add Basenames pricing tiers (2026-06-10 12:29:37)
 - [74] projects: add Basenames integration across ecosystem (2026-06-10 12:29:38)
+- [75] projects: add registration tips and best practices (2026-06-10 12:29:38)
