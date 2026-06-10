@@ -175,3 +175,4 @@
 - [77] projects: add cbBTC DeFi integration tracker (2026-06-10 12:29:40)
 - [78] tools: add essential Base tools and analytics links (2026-06-10 12:29:40)
 - [79] tools: add ethers.js balance check snippet (2026-06-10 12:29:41)
+- [80] tools: add USDC balance query script (2026-06-10 12:29:42)
