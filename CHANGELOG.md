@@ -190,3 +190,4 @@
 - [92] notes: weekly research update - Base ecosystem (2026-06-10 12:29:49)
 - [93] defi: update Aerodrome volume stats Q1 2026 (2026-06-10 12:29:50)
 - [94] social: update Farcaster channel activity notes (2026-06-10 12:29:50)
+- [95] ai-agents: update Virtuals ecosystem Q1 2026 (2026-06-10 12:29:51)
