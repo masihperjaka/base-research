@@ -120,3 +120,4 @@
 - [22] notes: add key metrics to track section (2026-06-10 12:29:04)
 - [23] defi: add Aerodrome Finance deep dive (2026-06-10 12:29:05)
 - [24] defi: update Aerodrome TVL and volume stats (2026-06-10 12:29:05)
+- [25] defi: add ve(3,3) tokenomics explanation (2026-06-10 12:29:06)
