@@ -173,3 +173,4 @@
 - [75] projects: add registration tips and best practices (2026-06-10 12:29:38)
 - [76] projects: add Limitless prediction market notes (2026-06-10 12:29:39)
 - [77] projects: add cbBTC DeFi integration tracker (2026-06-10 12:29:40)
+- [78] tools: add essential Base tools and analytics links (2026-06-10 12:29:40)
