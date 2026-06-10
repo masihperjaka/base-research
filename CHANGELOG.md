@@ -102,3 +102,4 @@
 - [4] notes: add Base Azul upgrade details (2026-06-10 12:28:53)
 - [5] notes: add Base ecosystem TVL and stats (2026-06-10 12:28:53)
 - [6] notes: add Base vs other L2 comparison (2026-06-10 12:28:54)
+- [7] notes: add network fees and speed details (2026-06-10 12:28:55)
