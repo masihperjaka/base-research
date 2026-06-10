@@ -140,3 +140,4 @@
 - [42] social: add Farcaster decentralized social overview (2026-06-10 12:29:17)
 - [43] social: update Clanker acquisition by Farcaster (2026-06-10 12:29:18)
 - [44] social: add Base App integration July 2025 (2026-06-10 12:29:19)
+- [45] social: add Farcaster channels guide (2026-06-10 12:29:19)
