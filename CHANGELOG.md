@@ -105,3 +105,4 @@
 - [7] notes: add network fees and speed details (2026-06-10 12:28:55)
 - [8] notes: add airdrop strategy for Base ecosystem (2026-06-10 12:28:55)
 - [9] notes: update high-value DeFi activities for farming (2026-06-10 12:28:56)
+- [10] notes: add social activity signals for eligibility (2026-06-10 12:28:56)
