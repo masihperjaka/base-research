@@ -132,3 +132,4 @@
 - [34] defi: add Coinbase app integration notes (2026-06-10 12:29:12)
 - [35] defi: add Seamless Protocol section (2026-06-10 12:29:12)
 - [36] defi: add Morpho usage guide (2026-06-10 12:29:13)
+- [37] defi: add cbBTC and stablecoins overview (2026-06-10 12:29:14)
