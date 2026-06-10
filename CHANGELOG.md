@@ -113,3 +113,4 @@
 - [15] notes: add Solana bridge via Chainlink CCIP (2026-06-10 12:29:00)
 - [16] notes: add third-party bridges comparison table (2026-06-10 12:29:01)
 - [17] notes: add wallet approvals management guide (2026-06-10 12:29:01)
+- [18] notes: add common Base scams to watch out for (2026-06-10 12:29:02)
