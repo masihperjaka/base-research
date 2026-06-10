@@ -160,3 +160,4 @@
 - [62] ai-agents: add AIXBT and Luna notable agents (2026-06-10 12:29:30)
 - [63] ai-agents: update Virtuals growth timeline (2026-06-10 12:29:31)
 - [64] ai-agents: add inference fees revenue model (2026-06-10 12:29:31)
+- [65] ai-agents: add risk factors for AI agent tokens (2026-06-10 12:29:32)
