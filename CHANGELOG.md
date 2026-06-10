@@ -171,3 +171,4 @@
 - [73] projects: add Basenames pricing tiers (2026-06-10 12:29:37)
 - [74] projects: add Basenames integration across ecosystem (2026-06-10 12:29:38)
 - [75] projects: add registration tips and best practices (2026-06-10 12:29:38)
+- [76] projects: add Limitless prediction market notes (2026-06-10 12:29:39)
