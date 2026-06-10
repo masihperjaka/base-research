@@ -107,3 +107,4 @@
 - [9] notes: update high-value DeFi activities for farming (2026-06-10 12:28:56)
 - [10] notes: add social activity signals for eligibility (2026-06-10 12:28:56)
 - [11] notes: add red flags and sybil patterns to avoid (2026-06-10 12:28:57)
+- [12] notes: add tracking tools table (2026-06-10 12:28:58)
