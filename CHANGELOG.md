@@ -167,3 +167,4 @@
 - [69] ai-agents: add Builder Codes ERC-8021 notes (2026-06-10 12:29:34)
 - [70] ai-agents: add how to build agent on Base guide (2026-06-10 12:29:35)
 - [71] ai-agents: add infrastructure partners list (2026-06-10 12:29:36)
+- [72] projects: add Basenames identity system overview (2026-06-10 12:29:36)
