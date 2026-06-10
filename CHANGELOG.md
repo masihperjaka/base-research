@@ -158,3 +158,4 @@
 - [60] ai-agents: add Virtuals Protocol overview (2026-06-10 12:29:29)
 - [61] ai-agents: add tokenized AI agent model explained (2026-06-10 12:29:29)
 - [62] ai-agents: add AIXBT and Luna notable agents (2026-06-10 12:29:30)
+- [63] ai-agents: update Virtuals growth timeline (2026-06-10 12:29:31)
