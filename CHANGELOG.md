@@ -169,3 +169,4 @@
 - [71] ai-agents: add infrastructure partners list (2026-06-10 12:29:36)
 - [72] projects: add Basenames identity system overview (2026-06-10 12:29:36)
 - [73] projects: add Basenames pricing tiers (2026-06-10 12:29:37)
+- [74] projects: add Basenames integration across ecosystem (2026-06-10 12:29:38)
