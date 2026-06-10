@@ -131,3 +131,4 @@
 - [33] defi: add Morpho vs AAVE comparison (2026-06-10 12:29:11)
 - [34] defi: add Coinbase app integration notes (2026-06-10 12:29:12)
 - [35] defi: add Seamless Protocol section (2026-06-10 12:29:12)
+- [36] defi: add Morpho usage guide (2026-06-10 12:29:13)
